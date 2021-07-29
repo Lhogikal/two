@@ -1,0 +1,21 @@
+footer {
+  background: #111;
+  height: 10vh;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+footer a {
+  color: #e8e8e8;
+  text-decoration: none;
+  margin: 0 10px;
+}
+/*# sourceMappingURL=footer.css.map */

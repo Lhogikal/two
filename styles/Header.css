@@ -1,0 +1,25 @@
+.mobile-header {
+  height: 10vh;
+  width: 100%;
+}
+
+.mobile-header nav {
+  width: 80%;
+  height: 100%;
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.mobile-header nav i {
+  cursor: pointer;
+  font-size: 30px;
+}
+/*# sourceMappingURL=Header.css.map */
